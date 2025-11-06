@@ -39,6 +39,7 @@ body {
     height: 70px;
     top: 5px;
     left: 20px;
+    ;
 
 
 }
@@ -50,8 +51,9 @@ body {
     background-color: rgb(255, 255, 255);
     width: 70px;
     height: 70px;
-    top: 180px;
+    top: 240px;
     left: 300px;
+    rotate: 180deg
 
 
 }
